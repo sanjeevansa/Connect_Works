@@ -79,7 +79,7 @@ const ContactInfo = () => {
         </div>
         <div>
           <p className="font-medium text-white mb-1">Website</p>
-          <p className="group-hover:text-yellow-400 transition-colors">www.ConnectWorks.com</p>
+          <p className="group-hover:text-yellow-400 transition-colors">https://connect-works.vercel.app/</p>
         </div>
       </motion.div>
     </motion.div>
