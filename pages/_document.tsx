@@ -25,26 +25,26 @@ export default function Document() {
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              name: "Koshi Labs Pvt. Ltd.",
-              alternateName: "KoshiLabs",
-              url: "https://koshilabs.com",
+              name: "Connect Works",
+              alternateName: "Connect Works",
+              url: "https://connect-works.vercel.app/",
               logo: "https://koshilabs.com/logo.png",
               description:
-                "Leading software development company in Birtamode, Jhapa, Nepal specializing in custom software development, AI solutions, web applications, and digital transformation services.",
+                "Leading software development company in Sri Lanka specializing in custom software development, AI solutions, web applications, and digital transformation services.",
               address: {
                 "@type": "PostalAddress",
-                streetAddress: "Bhadrapur Road, Birtamode-4",
-                addressLocality: "Birtamode",
-                addressRegion: "Jhapa",
-                postalCode: "57204",
-                addressCountry: "Nepal",
+                streetAddress: "No. 36 De Kretser Pl",
+                addressLocality: "Bamplapitiya",
+                addressRegion: "colombo-06",
+                postalCode: "00400",
+                addressCountry: "Sri Lanka",
               },
               contactPoint: {
                 "@type": "ContactPoint",
-                telephone: "+977-9817996672",
+                telephone: "075 2590 685",
                 contactType: "customer service",
-                email: "admin@koshilabs.com",
-                availableLanguage: ["English", "Nepali"],
+                email: "sanjeevans904@gmail.com",
+                availableLanguage: ["English", "Tamil", "Sinhala"],
               },
               openingHoursSpecification: [
                 {

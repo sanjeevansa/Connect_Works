@@ -486,23 +486,23 @@ const HomePage: React.FC = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="keywords"
-          content="Connect Work, Connect Work, software development, Birtamode, Jhapa, Nepal, web development, mobile app development, database, performance optimization, AI solutions, custom software, digital transformation, IT services, consulting, Nepali tech company, software company Nepal"
+          content="Connect Work, Connect Work, software development, Sri Lankal web development, mobile app development, database, performance optimization, AI solutions, custom software, digital transformation, IT services, consulting, Nepali tech company, software company Nepal"
         />
         <meta
           property="og:title"
-          content="Connect Work Pvt. Ltd. - Premier Software Development Company in Nepal"
+          content="Connect Work Pvt. Ltd. - Premier Software Development Company in Sri Lankal"
         />
         <meta
           property="og:description"
-          content="Leading software development company in Birtamode, Jhapa, Nepal offering innovative solutions in web development, mobile apps, and AI services."
+          content="Leading software development company in Sri Lankal offering innovative solutions in web development, mobile apps, and AI services."
         />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://koshilabs.com" />
+        <meta property="og:url" content="https://connect-works.vercel.app/" />
         <meta
           property="og:image"
           content="https://koshilabs.com/og-image.jpg"
         />
-        <meta property="og:site_name" content="KoshiLabs" />
+        <meta property="og:site_name" content="Connect Works" />
         <meta property="og:locale" content="en_US" />
 
         <meta name="twitter:card" content="summary_large_image" />
@@ -512,7 +512,7 @@ const HomePage: React.FC = () => {
         />
         <meta
           name="twitter:description"
-          content="Leading software development company in Birtamode, Jhapa, Nepal offering innovative solutions in web development, mobile apps, and AI services."
+          content="Leading software development company in Sri Lankal offering innovative solutions in web development, mobile apps, and AI services."
         />
         <meta
           name="twitter:image"
@@ -520,11 +520,11 @@ const HomePage: React.FC = () => {
         />
 
         <meta name="geo.region" content="NP-P1" />
-        <meta name="geo.placename" content="Birtamode, Jhapa" />
+        <meta name="geo.placename" content="Sri Lanka" />
         <meta name="geo.position" content="26.6418;87.9927" />
         <meta name="ICBM" content="26.6418, 87.9927" />
 
-        <link rel="canonical" href="https://koshilabs.com" />
+        <link rel="canonical" href="https://connect-works.vercel.app/" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -1550,7 +1550,7 @@ const HomePage: React.FC = () => {
                 whileHover={{ opacity: 1 }}
               >
                 <motion.a
-                  href="https://www.facebook.com/koshilabs"
+                  href=""
                   className="text-gray-400 hover:text-blue-400 transition-colors"
                   whileHover={{ y: -3, scale: 1.2 }}
                   transition={{ type: "spring", stiffness: 400, damping: 10 }}
@@ -1559,7 +1559,7 @@ const HomePage: React.FC = () => {
                   <Facebook className="w-5 h-5" />
                 </motion.a>
                 <motion.a
-                  href="https://x.com/koshilabs"
+                  href=""
                   className="text-gray-400 hover:text-blue-400 transition-colors"
                   whileHover={{ y: -3, scale: 1.2 }}
                   transition={{ type: "spring", stiffness: 400, damping: 10 }}
@@ -1568,7 +1568,7 @@ const HomePage: React.FC = () => {
                   <X className="w-5 h-5" />
                 </motion.a>
                 <motion.a
-                  href="https://www.linkedin.com/company/koshilabs"
+                  href=""
                   className="text-gray-400 hover:text-blue-400 transition-colors"
                   whileHover={{ y: -3, scale: 1.2 }}
                   transition={{ type: "spring", stiffness: 400, damping: 10 }}
