@@ -336,15 +336,15 @@ const testimonials = [
 
 const teamMembers = [
   {
-    name: "Daryl",
+    name: "Krisan",
     title: "CEO",
-    image: "/teams/1.png",
+    image: "/teams/IMG_1653.jpg",
     social: { linkedin: "#", github: "#", twitter: "#" },
   },
   {
-    name: "Mark",
+    name: "Sanjeevan",
     title: "CTO",
-    image: "/teams/2.png",
+    image: "/teams/WhatsApp Image 2025-08-05 at 16.14.50_fe0df1bb.jpg",
     social: { linkedin: "#", github: "#", twitter: "#" },
   },
   {
